@@ -23,7 +23,7 @@ public class TestOrdenarCartas {
 		 *  monton2 = C8 C9 C10 C11 C12 C13 C14
 		 *  monton3 = C15 C16 C17 C18 C19 C20 C21
 		 *  y se escoje una carta del monton 1 los
-		 *  montones tienen que quedar ordenados de la siguiente maneraaaa
+		 *  montones tienen que quedar ordenados de la siguiente manera
 		 */
 		expected1.add(new Cartas("C8", "dosbastos.jpg"));		
 		expected1.add(new Cartas("C11", "cuatroespadas.jpg"));
