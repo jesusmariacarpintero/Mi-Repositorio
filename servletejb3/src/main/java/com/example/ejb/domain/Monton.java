@@ -10,10 +10,12 @@ public class Monton {
 	private ArrayList<Cartas> monton3;
 
     public Monton(){    	
-    	monton = new ArrayList<Cartas>();
+    //	monton = new ArrayList<Cartas>();
     }
 	
     public void inicioMonton(){
+    	monton = new ArrayList<Cartas>();
+    	
     	monton.add(new Cartas("C1", "asbastos.jpg"));
     	monton.add(new Cartas("C2", "ascopas.jpg"));
     	monton.add(new Cartas("C3", "asespadas.jpg"));
